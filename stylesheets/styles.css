@@ -1,3 +1,11 @@
 form :focus:required:invalid {
     border-color: plum;
 }
+
+.logo-text {
+    background: white;
+    text-align: center;
+}
+.main-header {
+    flex:0 1 auto;
+}

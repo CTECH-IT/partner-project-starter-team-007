@@ -1,5 +1,8 @@
 (function (window) {
-    'use strict'
+    'use strict';
+    
     let App = window.App;
+    let DataStore = App.DataStore;
+    
 
 })(window);
